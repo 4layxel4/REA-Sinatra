@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# That's the location of my app
+cd /home/ec2-user
+bundle install --path vendor/bundle
